@@ -1,10 +1,5 @@
 # Microservices in this super app
 
-Booking Service
-Handles booking and reservation flows
-Locks inventory temporarily during booking
-Processes payments securely and updates booking status
-
 Content Service
 Handles creation, storage, and distribution of user-generated content like posts, photos, videos
 Provides APIs to fetch content feeds based on user subscriptions and interests
