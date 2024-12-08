@@ -25,3 +25,7 @@ Provides low-latency streaming for live content
 Parental Control Service: Enforces age-appropriate content restrictions
 
 Offline Service: Allows downloading videos for offline viewing
+
+# ER diagram for social media :
+
+![eureka](sm1.png)
